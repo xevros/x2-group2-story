@@ -1,1 +1,3 @@
-Once upon a time there was a programmer named Noodle. Noodle lived in the woods with no internet connection, so he could only program on local directories. This made Noodle sad, because he wasn't able to collaborate with a team on a shared repository. The end.
+Once upon a time there was a programmer named Noodle.
+ Noodle lived in the woods with no internet connection, so he could only program on local directories. 
+This made Noodle sad, because he wasn't able to collaborate with a team on a shared repository.
